@@ -1,104 +1,126 @@
-# Hi there, I'm I Gusti Lanang Oka Wiyana 👋
-
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Software+Engineer;UI%2FUX+Designer;Web+Developer" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f172a,50:1e3a5f,100:0ea5e9&text=I%20Gusti%20Lanang%20Oka%20Wiyana&fontColor=f0f9ff&fontSize=28&fontAlignY=38&desc=Software%20Engineer%20%7C%20UI%2FUX%20Designer%20%7C%20Flutter%20Developer&descAlignY=58&descSize=14&descColor=bae6fd&animation=fadeIn" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=500&lines=Building+beautiful+interfaces+%F0%9F%8E%A8;Crafting+clean+code+%F0%9F%92%BB;Designing+great+experiences+%E2%9C%A8;Always+learning+%F0%9F%8C%B1" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-💻 Mahasiswa Teknologi Rekayasa Perangkat Lunak di Politeknik Negeri Bali  
-🎨 Memiliki minat di bidang UI/UX Design dan Web Development  
-📱 Suka mengembangkan aplikasi modern dan responsive  
-📸 Hobi fotografi, desain grafis, dan olahraga  
-🌱 Sedang belajar dan mengeksplorasi teknologi baru  
+```yaml
+name       : I Gusti Lanang Oka Wiyana
+education  : Teknologi Rekayasa Perangkat Lunak — Politeknik Negeri Bali
+focus      : UI/UX Design • Web Development • Mobile Apps
+hobbies    : Photography • Graphic Design • Sport
+currently  : Learning & exploring new technologies 🌱
+```
 
 ---
 
-## 🧑‍💻 Tech Stack
+## 🛠 Tech Stack
 
-### 🌐 Frontend Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react" />
-</p>
+<div align="center">
 
-### ⚙️ Backend Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,expressjs,mysql" />
-</p>
+**Frontend**
 
-### 🎨 UI/UX & Design
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,flutter&theme=dark" />
 
-### 🛠️ Tools & Platforms
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman" />
-</p>
+**Backend & Database**
+
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,mysql,firebase&theme=dark" />
+
+**Design**
+
+<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator&theme=dark" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm&theme=dark" />
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
+<!-- ⚠️ GANTI "okawiyana12" dengan username GitHub kamu yang benar! -->
+
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=OkaWiyana&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OkaWiyana&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=OkaWiyana&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=94a3b8&rank_icon=github" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OkaWiyana&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=94a3b8&langs_count=8" />
 
 </div>
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 Contribution Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=OkaWiyana&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=OkaWiyana&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=0ea5e9&fire=f59e0b&currStreakLabel=0ea5e9&sideLabels=94a3b8&dates=64748b" />
 
 </div>
 
 ---
 
-## 🌟 Featured Skills
+## 🏆 GitHub Trophies
 
-```txt
-📌 Web Development
-📌 Mobile App Development
-📌 UI/UX Design
-📌 REST API Integration
-📌 Responsive Design
-📌 Laravel Development
-📌 Flutter Development
-```
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=okawiyana12&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=4" />
+
+</div>
 
 ---
 
-## 📫 Connect With Me
+## 💼 Core Competencies
 
-<p align="left">
-<a href="https://www.instagram.com/wiyana_12" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" />
-</a>
-<a href="https://www.linkedin.com/in/okawiyana" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-<a href="mailto:gungwiyana@gmail.com">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
-</a>
-</p>
+<div align="center">
+
+| 🌐 Web Dev | 📱 Mobile | 🎨 Design | ⚙️ Backend |
+|:----------:|:---------:|:---------:|:----------:|
+| React & Next.js | Flutter | Figma | Laravel |
+| Tailwind CSS | Cross-platform | UI/UX Research | REST API |
+| Responsive Design | Modern UI | Graphic Design | MySQL |
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=okawiyana12&bg_color=0d1117&color=0ea5e9&line=0ea5e9&point=f59e0b&area=true&area_color=0ea5e940&hide_border=true" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-wiyana__12-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wiyana_12)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-okawiyana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/okawiyana)
+[![Gmail](https://img.shields.io/badge/Gmail-gungwiyana@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gungwiyana@gmail.com)
+
+</div>
 
 ---
 
 <div align="center">
 
-### ✨ "Code, Design, and Build Something Amazing" ✨
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0ea5e9,100:0f172a&reversal=true" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient" />
+*"Code with purpose, design with heart, build with passion."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=okawiyana12&style=flat-square&color=0ea5e9&label=Profile+Views)
 
 </div>
-
