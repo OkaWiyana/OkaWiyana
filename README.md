@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Software+Engineer;UI%2FUX+Designer;Web+Developer;Flutter+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Software+Engineer;UI%2FUX+Designer;Web+Developer" alt="Typing SVG" />
 
 </div>
 
@@ -22,12 +22,12 @@
 
 ### 🌐 Frontend Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,nextjs,flutter" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react" />
 </p>
 
 ### ⚙️ Backend Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,mysql,firebase" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,expressjs,mysql" />
 </p>
 
 ### 🎨 UI/UX & Design
@@ -46,9 +46,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=OkaWiyana&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OkaWiyana&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -58,7 +58,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=OkaWiyana&theme=tokyonight&hide_border=true" />
 
 </div>
 
